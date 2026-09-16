@@ -15,9 +15,9 @@ Repository ini berisi penyelesaian **Tugas Pemrograman Dasar TLS 2026** yang ter
 ## Struktur Repository
 
 ```text
-Pemrograman_NamaLengkap_Kelompok_TLS26/
-│
-├── Perancangan_Algoritma.pdf   # Laporan Fase 1 (Flowchart, Pseudocode & Logika)
-├── problem1.cpp                # Implementasi C++ Problem 1 (The Last Astronaut)
-├── problem2.cpp                # Implementasi C++ Problem 2 (Alien-In-The-Middle)
-└── README.md                   # Dokumentasi Repository
+Pemrograman_NamaLengkap_Kelompok_TLS26
+
+-Perancangan_Algoritma.pdf   
+-problem1.cpp                
+-problem2.cpp                
+
